@@ -1,0 +1,1 @@
+# firefox-sideberry-theme
